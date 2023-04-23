@@ -39,7 +39,7 @@ body {
   }
   
   .divider {
-    background: #C70A00;
+    background: #6a12d5;
     height: 100px;
     width: 100px;
     left: 60px;
@@ -52,13 +52,13 @@ body {
   }
   
   .side.front {
-    background: #C70A00;
+    background: #6a12d5;
     -webkit-transform: rotateY(0deg) translateZ(100px);
     transform: rotateY(0deg) translateZ(100px);
   }
   
   .side.back {
-    background: #C70A00;
+    background: #6a12d5;
     -webkit-transform: rotateY(180deg) translateZ(100px);
     transform: rotateY(180deg) translateZ(100px);
   }
@@ -111,7 +111,7 @@ body {
   }
   
   .side-slice {
-    background: #C70A00;
+    background: #6a12d5;
     width: 200px;
     height: 80px;
     right: 0px;
